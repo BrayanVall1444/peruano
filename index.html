@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Visor de PDF</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="left">
+      <h1>comida.pdf</h1>
+      <div class="controls">
+        <button id="prev">Anterior</button>
+        <div class="status">
+          <span>Página</span>
+          <span id="pageNum">1</span>
+          <span>de</span>
+          <span id="pageCount">?</span>
+        </div>
+        <button id="next">Siguiente</button>
+      </div>
+    </div>
+    <div class="right">
+      <button id="zoomOut">-</button>
+      <span id="zoomLabel">100%</span>
+      <button id="zoomIn">+</button>
+      <a id="download" href="comida.pdf" download>Descargar</a>
+    </div>
+  </header>
+
+  <main class="viewer">
+    <div id="fallback" class="fallback hidden">
+      <p>No se pudo cargar el visor. Prueba a abrir el PDF directamente:</p>
+      <p><a href="comida.pdf" target="_blank" rel="noreferrer">Abrir comida.pdf</a></p>
+      <object data="comida.pdf" type="application/pdf" class="objectPdf">
+        <embed src="comida.pdf" type="application/pdf" class="objectPdf" />
+      </object>
+    </div>
+
+    <div id="stage" class="stage">
+      <canvas id="pdfCanvas"></canvas>
+    </div>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
