@@ -161,6 +161,31 @@ button:disabled {
   display: none;
 }
 
+.extraDownload {
+  padding: 0 16px 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.extraDownload a {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--btn);
+  color: var(--text);
+  padding: 10px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.extraDownload a:hover {
+  background: var(--btnHover);
+}
+
 @media (max-width: 720px) {
   .topbar {
     flex-direction: column;
