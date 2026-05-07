@@ -1,82 +1,364 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 5 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/nilo-vallejo/)
->> /Border [ 0 0 0 ] /Rect [ 353.4131 749.5194 502.5199 759.8394 ] /Subtype /Link /Type /Annot
+/Length 9209
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 778.0394 cm
+q
+.121569 .305882 .372549 rg
+BT 1 0 0 1 0 3 Tm /F2 18 Tf 21 TL 137.7435 0 Td (Nilo Brayan Vallejo Pablo) Tj T* -137.7435 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 763.8394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F1 10.2 Tf 12.2 TL 44.84876 0 Td (Bachiller en Ingenier\355a de Software | Analista de Datos Ecommerce / Optimizaci\363n Digital) Tj T* -44.84876 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.4394 cm
+q
+BT 1 0 0 1 0 1.8 Tm 41.40136 0 Td 10.4 TL /F1 8.6 Tf .066667 .066667 .066667 rg (brayanvallejo1444@gmail.com | 923377774 | Lima, Per\372 | LinkedIn: ) Tj .121569 .305882 .372549 rg (https://www.linkedin.com/in/nilo-vallejo/) Tj T* -41.40136 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 739.4394 cm
+.121569 .305882 .372549 RG
+.6 w
+n 0 2 m 504.5669 2 l S
+Q
+q
+1 0 0 1 51.35433 720.4394 cm
+q
+.121569 .305882 .372549 rg
+BT 1 0 0 1 0 1.8 Tm /F2 11.2 Tf 13 TL (PERFIL PROFESIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 685.3394 cm
+q
+BT 1 0 0 1 0 23.2 Tm 10.7 TL /F1 8.9 Tf .066667 .066667 .066667 rg (Analista de datos con experiencia en ) Tj /F2 8.9 Tf (ecommerce, optimizaci\363n digital, campa\361as comerciales, dashboards e insights) Tj T* (de negocio) Tj /F1 8.9 Tf (. Manejo de ) Tj /F2 8.9 Tf (SQL, BigQuery, Looker Studio, Adobe Analytics, Python y automatizaci\363n) Tj /F1 8.9 Tf ( para monitorear) Tj T* (ventas, conversi\363n, funnel, performance digital y experiencia del cliente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 666.3394 cm
+q
+.121569 .305882 .372549 rg
+BT 1 0 0 1 0 1.8 Tm /F2 11.2 Tf 13 TL (EXPERIENCIA PROFESIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 651.9394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.6 Tm /F2 9.8 Tf 11.4 TL (Analista de Operaciones y Experiencia Digital) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 641.7394 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 1.5 Tm /F1 8.7 Tf 10.2 TL (Sodimac Per\372 | 03/2026 - Presente | Lima, Per\372) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 619.1394 cm
+q
+BT 1 0 0 1 0 11.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+BT 1 0 0 1 10 11.9 Tm -0.67 0 Td 10.3 TL /F1 8.7 Tf .066667 .066667 .066667 rg (Construcci\363n de dashboards en ) Tj /F2 8.7 Tf (Looker Studio) Tj /F1 8.7 Tf ( para seguimiento de ventas, funnel, conversi\363n, ticket promedio y) Tj T* .67 0 Td (cumplimiento de objetivos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 607.1394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+BT 1 0 0 1 10 1.6 Tm -0.67 0 Td 10.3 TL /F1 8.7 Tf .066667 .066667 .066667 rg (Monitoreo en tiempo real de ) Tj /F2 8.7 Tf (Cyber Wow, Hot Sale y Black Friday) Tj /F1 8.7 Tf (, generando insights para negocio y operaciones.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 595.1394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+BT 1 0 0 1 10 1.6 Tm -0.67 0 Td 10.3 TL /F1 8.7 Tf .066667 .066667 .066667 rg (Desarrollo de consultas en ) Tj /F2 8.7 Tf (SQL y BigQuery) Tj /F1 8.7 Tf ( para an\341lisis de performance digital, ventas y comportamiento ecommerce.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 583.1394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+BT 1 0 0 1 10 1.6 Tm -0.67 0 Td 10.3 TL /F1 8.7 Tf .066667 .066667 .066667 rg (Optimizaci\363n de an\341lisis de carritos, fletes y disponibilidad, logrando procesamiento ) Tj /F2 8.7 Tf (47 veces m\341s r\341pido) Tj /F1 8.7 Tf (.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 571.1394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 10 1.6 Tm /F1 8.7 Tf 10.3 TL -0.67 0 Td (Automatizaci\363n de reportes y alertas para seguimiento comercial, operativo y de experiencia de compra.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 556.7394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.6 Tm /F2 9.8 Tf 11.4 TL (Practicante Profesional de Desarrollo y Operaciones Digitales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.5394 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 1.5 Tm /F1 8.7 Tf 10.2 TL (Sodimac Per\372 | 03/2025 - 02/2026 | Lima, Per\372) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 534.2394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 10 1.6 Tm /F1 8.7 Tf 10.3 TL -0.67 0 Td (Monitoreo de calidad de informaci\363n ecommerce: precios, enlaces, contenido y disponibilidad.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 522.2394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 10 1.6 Tm /F1 8.7 Tf 10.3 TL -0.67 0 Td (Soporte en dashboards y consultas para campa\361as digitales de alto tr\341fico.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 510.2394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+BT 1 0 0 1 10 1.6 Tm -0.67 0 Td 10.3 TL /F1 8.7 Tf .066667 .066667 .066667 rg (Mejora del scraping de precios, reduciendo ) Tj /F2 8.7 Tf (66%) Tj /F1 8.7 Tf ( el tiempo de detecci\363n de inconsistencias.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 495.8394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.6 Tm /F2 9.8 Tf 11.4 TL (Analista de Datos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 485.6394 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 1.5 Tm /F1 8.7 Tf 10.2 TL (Nutriera | 06/2023 - 11/2024 | Lima, Per\372) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 473.3394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+BT 1 0 0 1 10 1.6 Tm -0.67 0 Td 10.3 TL /F1 8.7 Tf .066667 .066667 .066667 rg (Integraci\363n, limpieza y preprocesamiento de datos con ) Tj /F2 8.7 Tf (Python, pandas y numpy) Tj /F1 8.7 Tf (.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 461.3394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 10 1.6 Tm /F1 8.7 Tf 10.3 TL -0.67 0 Td (Construcci\363n de datasets estructurados para an\341lisis y modelos de machine learning.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 449.3394 cm
+q
+BT 1 0 0 1 0 1.6 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (-) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 10 1.6 Tm /F1 8.7 Tf 10.3 TL -0.67 0 Td (Automatizaci\363n de flujos de datos para mejorar disponibilidad, consistencia y calidad de informaci\363n.) Tj T* .67 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 430.3394 cm
+q
+.121569 .305882 .372549 rg
+BT 1 0 0 1 0 1.8 Tm /F2 11.2 Tf 13 TL (HABILIDADES T\311CNICAS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 417.1394 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Analytics:) Tj /F1 8.5 Tf ( SQL avanzado, BigQuery, Looker Studio, Excel avanzado, KPIs, insights de negocio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 404.9394 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Digital Analytics:) Tj /F1 8.5 Tf ( Adobe Analytics, funnel, conversi\363n, performance digital, ecommerce.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 392.7394 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Automatizaci\363n:) Tj /F1 8.5 Tf ( Python, Power Automate, scraping, Playwright.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 380.5394 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Data:) Tj /F1 8.5 Tf ( limpieza de datos, validaci\363n de informaci\363n, dashboards, reportes automatizados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 361.5394 cm
+q
+.121569 .305882 .372549 rg
+BT 1 0 0 1 0 1.8 Tm /F2 11.2 Tf 13 TL (PROYECTOS DESTACADOS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 338.1394 cm
+q
+BT 1 0 0 1 0 11.9 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Monitoreo de campa\361as digitales) Tj /F1 8.5 Tf ( - Seguimiento en tiempo real de ventas, funnel, conversi\363n y performance durante campa\361as) Tj T* (de alto tr\341fico como ) Tj /F2 8.5 Tf (Cyber Wow, Hot Sale y Black Friday) Tj /F1 8.5 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 315.7394 cm
+q
+BT 1 0 0 1 0 11.9 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Optimizaci\363n de an\341lisis de carritos) Tj /F1 8.5 Tf ( - Mejora de herramienta de an\341lisis de carritos, fletes y disponibilidad para detectar) Tj T* (problemas de experiencia de compra.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 293.3394 cm
+q
+BT 1 0 0 1 0 11.9 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Automatizaci\363n de reportes comerciales) Tj /F1 8.5 Tf ( - Desarrollo de reportes y dashboards automatizados para seguimiento de ventas,) Tj T* (\363rdenes, familias, canales y KPIs digitales.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 274.3394 cm
+q
+.121569 .305882 .372549 rg
+BT 1 0 0 1 0 1.8 Tm /F2 11.2 Tf 13 TL (EDUCACI\323N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 261.1394 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.2 TL /F2 8.5 Tf .066667 .066667 .066667 rg (Bachiller en Ingenier\355a de Software) Tj /F1 8.5 Tf ( | Universidad Nacional Mayor de San Marcos | 03/2018 - 12/2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 242.1394 cm
+q
+.121569 .305882 .372549 rg
+BT 1 0 0 1 0 1.8 Tm /F2 11.2 Tf 13 TL (LOGROS E IDIOMAS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 228.9394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL (Entrevista por proyecto de IA en RPP \(2024\); Tercer lugar Innova Esan \(2024\); Segundo lugar iTalent San Marcos \(2023\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 216.7394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL (Espa\361ol nativo | Ingl\351s profesional) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 5 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Annots [ 6 0 R ]
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057nilo\055vallejo\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 353.4131 749.5194 502.5199 759.8394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Author (Nilo Brayan Vallejo Pablo) /CreationDate (D:20260507154451+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260507154451+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (CV Nilo Vallejo - Optimizaci\363n Digital Ecommerce) /Trapped /False
+/F1 8 0 R
+/F2 9 0 R
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2676
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb!;f?$"^j(4Gq\\1_&T[]iHk'/D5!0q"^N)e,2*h($1HV)Ia0l=O8;*`Dh(Hb1Rh+MbkfCaF7)!$cX\4nm`Q584/Nr$CL_0EJ\R_Sml(`.mLY&D(r23e[M)m([2/\C)Ufj110P6.!&D:<1?Nn8!s7`:H&u3A%Gj[dc5Z4gtN.G(sdqoem:R'AUG/dahXT6uP>\^^=>e_saK81i@OhiDS&L(%<jpa6\_;0tiY0#FKskl/1HIqZ]1?BDgS07c1K)RkqL#r!?d*Fn^i<IR]!aA`Z20qK3(HCUMuAi"tRhUu<Q=j!e@;#%GRTBBme44:2[QM1!C9WFG?;\q7pac-2f`BI6[ALGDGg$5m*aBV+aIJ"n1%F*pKn'qb#T`bT(nG<KE:gTfPAZ!.tUX0$5ZM<21%;lkZ')>@l=gQo#P4cBq/mYsT*EdnYPFoO0h.$#se"AS78NYC?3MslE`ThQA>/-=RR(113$&0Ja@FI4Q)Gg*I=qXNS)q>&^$c#$_L*A4k3&4h`N@fM>q3a4K_6-%ZOF6Eb9^RcSYcY(+V+9A\->+Uckg(;0_^q+]iKR2H.-lc[tJJ9ANZniW\rp?W"&B;2S:]8CCFOM859Kd3]htAU6^ZTIS13>uu#9.<"??14WZ&rI2-j?h>k=fkB6;BE"c,$an`I\Q-@W`@F%]Q4ne4g3_18jn+6M6fDC//9)2K>5YnQo*.V8.V>Pg:DWFCfe$cQUq7L0PM+Y0CW^E(u&;#e[$TUrhe.'/'+Io7ErQ'8BD6`H[qaMhoP'F<c(W9R&0G*o\?_bNofM>ln;B183C@K$(MUVi!eb"j`uR<3;5X`'d(7/O\r^WAMB'#nICe(]o4!5"Lr8J\b]dK):h,NE?TtN#sfeeSr7kQ^n)!!quYR'HHa`H@tXB/Aub'PJri$jiJ%]YtRp.o,(ce,2igd6!$Un;FIQm6>K(DO.6`W,1rF30gDo>>!8Le8dB2R64ZLc_"192KM!&HPcj+QfIbj5Eu6EnC'X1L@?"c[N^XH!376Mcjeb-rl'!*FjE%XPDHC"uCmI,#=a8mT+#k3r#[W[MSePn9(?%<kfiAAsab*`tYn_Y_GR@(5Pd8sDK`e#)n[saU<Uf@n'F*r+QGHh"OPlS3>f"$1WY$kHH!FNMhLArOJ!+N:ctW^h?*U-kgHC\&oQj#4(D7uNkS\$T>QP71]VC6Bb.Zn"]&4+pgk=Qq"r#KmN2OjdL0ro'iXoHs*7G%lCbY]R,hKVt40)1g>X32De#N3$0Yh#8q[!8:@OY;L`j$Zu;D;CpaND19a*aZP//$5/P#HA`\-04!Vg?<F)511e+4n@T3L;4j"bkPgp*?0_c;/u^DBXtcll[%;+->el&7Urn<"SSANWF+F@jH!BKNQN?WhLnpkdU]&MPJr,+iXm4d6".soZNap<FIopk^`RG5hAZ+A8@B'[PC#p\Y[^0/T*DRMJ8Ls9MlLg-=93(f*,A7O*E7Pg';GlIPIWuoH`K[^RUkP?9O6EO>&mqSV5$U5-Pa_.9FJd5VKSrMkZMFl-$WRF+)7/IoI(&<YI&HY:E@#-9T>VllVg[Rg`n<gdJGsbD"?_'hR$*pCW%IU!$7;R)%4jnnL8(#!A%`9fRu`[f$lt23B4bFTO%X>g$#[16GdY[A"DBNN0u8bF)5?#9M$O!7H8niA8S5[Y$&JUs`)e3>XK8BNM94/6[_*<mdMWi;8#)VJTS:W2t*/MlEUZp2ZjXa%jUphan!5MZqJl"0.eQP8Q6kX:]@)Zi'PsZC=:;W;uHY$1kQD3@J<hk]`<^:lXK=cCs4:&&bsYWm=A@U^G9VT$04l7PQBTFka=FekDpW^O-13`"3]H.0'Np0\&ed,aS8eYCQ,5<GcYAM.4K/h-fB7CnYMfdqTK.KLB:R9;?B]*m4lp0r%?KjI_*ig\D/;g0;<T`/?9/!'.U\nWXVP<N2/)Ju'.$Tq$HBG#%@/#>r6Y0*fD2<VNLXJa&^m8FL0;lV;1C#!(,?#K8OLc@]?ASQBGBC'K>594@&GR6`cZoSJHDaNPlm`r;SRk)diAru;P'&$=UNc$6S7=MepcV*WitfN4<NE6QVMW:[krAoBJ0D-@HSkB-&g,Occ2gPqL^eu_>a/>(=(`>u%jXrd)%QnG"rp/W1Qg9"7on/`W;+l%/*Fd?0!I1r2G-uW*5ja\u0fpeJ&D_pgAC/)^PW%<-WDh%%l48Maf2]YTmUOCk`Fg"7l!o7kM09&S"`-J6ofi(+:ST#(&;N"eN_&](TlM@.n0pppA_ckd*r!6i2E7\t#<X%f[53)7CX,/'/'CT=6^(0N+o:CB'YA8N1A4ksk'n+?N.*n-TW6\(sENj&eO'+fuQcC&#6*iY.Mq?R3G'nI3HD7hYZgC=rC#W'+,IaK,fMI$VPWjhZR*]^F"$.Xgk4'6&VVbXI>dk$43iE5Mq``H>qRtMJ%IP4j\Z)jGIq4<.)Y(!)rrfA$q@:7JDPTV*oYq<=:f=I\;CZ`8(&1(Kkb_fk6iu1YR:24^_ber;)>\NDLSJ3p;8N,`\/L=/lVqW-h1!m!_dHCgHX!Ub?Y#$WR0FM=X_5FBN,$8a6!(sR4!):F6fW7^i>7mHRRBHSQskt:&4/QXkbe^Pjq=f`H;9Q/_l$%6Od2V!QTB=4lL:7TDT6tSgbd=i1'WjOA%uf2`CMVEC?nr"c^hDYg&D$la!Xs~>endstream
 endobj
 xref
 0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000514 00000 n 
-0000000735 00000 n 
-0000000803 00000 n 
-0000001133 00000 n 
-0000001192 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000009423 00000 n 
+0000009640 00000 n 
+0000009860 00000 n 
+0000009901 00000 n 
+0000010008 00000 n 
 trailer
 <<
-/ID 
-[<6c36c3cb907eda3e1366119a02fd6fe0><6c36c3cb907eda3e1366119a02fd6fe0>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
 /Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3959
+10120
 %%EOF
